@@ -6,4 +6,4 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/fox
-ScriptFile=/usr/share/plymouth/themes/fox/rog.script
+ScriptFile=/usr/share/plymouth/themes/fox/fox.script
