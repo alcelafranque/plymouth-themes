@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=fox
+Description=display fox
+Comment=created By Alcé Lafranque
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/fox
+ScriptFile=/usr/share/plymouth/themes/fox/rog.script
